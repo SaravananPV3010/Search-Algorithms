@@ -131,7 +131,7 @@ ii) # Find the element in a list using Binary Search(Iterative Method).
 ![output](iterative_method.png)
 
 iii) # Find the element in a list using Binary Search (recursive Method).
-![output](<recursive method.png>)
+![output](recursive_method.png)
 
 ## Result
 
